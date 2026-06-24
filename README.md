@@ -240,7 +240,7 @@ This project demonstrates:
 
 ## Author
 
-**Name:** Zarintasnim Elahi
+**Name:** Zarin Tasnim Elahi
 **Project:** Flutter Quiz Master App
 
 ---
