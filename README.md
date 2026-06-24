@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # quiz_master
 
 A new Flutter project.
@@ -15,3 +16,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# flutter_quiz_master_app
+A Flutter quiz application with category-based quizzes, score tracking, quiz history, dark mode, and local data persistence using SharedPreferences.
+>>>>>>> 8e9bd4d4286db8d20ab9d0fa5ddc8e5037dc6c9a
